@@ -38,7 +38,7 @@ To set up the We Consulting website locally, follow these steps:
 ## Video Demonstration
 
 To see the live website in action, you can watch the recorded video demonstration available in the repository. This video showcases the functionality and layout of the landing page as it appears on the local host.
-[https://github.com/user-attachments/assets/5065f8c8-399a-426d-8552-99d98feac09b]
+[https://github.com/user-attachments/assets/5065f8c8-399a-426d-8552-99d98feac09b](url)
 
 ## Usage
 
