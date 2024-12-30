@@ -19,29 +19,26 @@ The We Consulting landing page is designed to showcase our expert accounting ser
 To set up the We Consulting website locally, follow these steps:
 
 1. **Download the Repository**: Clone or download the repository containing the WordPress files and database.
-   bash
-   git clone https://github.com/yourusername/we-consulting.git
-   
+2. 
+3. **Set Up Local Server**: Use a local server environment like XAMPP or MAMP to run WordPress on your machine.
 
-2. **Set Up Local Server**: Use a local server environment like XAMPP or MAMP to run WordPress on your machine.
+4. **Copy WordPress Files**: Place the WordPress folder from the repository into the `htdocs` directory (for XAMPP) or the appropriate directory for your local server.
 
-3. **Copy WordPress Files**: Place the WordPress folder from the repository into the `htdocs` directory (for XAMPP) or the appropriate directory for your local server.
-
-4. **Import Database**:
+5. **Import Database**:
    - Open phpMyAdmin (usually accessible at `localhost/phpmyadmin`).
    - Create a new database for the We Consulting site.
    - Import the database SQL file from the repository into the newly created database.
 
-5. **Configure `wp-config.php`**:
+6. **Configure `wp-config.php`**:
    - Open the `wp-config.php` file in the WordPress folder.
    - Update the database name, username, and password as needed.
 
-6. **Activate Plugins**: Ensure that the required plugins, WPBakery Page Builder and Advanced Custom Fields, are installed and activated.
+7. **Activate Plugins**: Ensure that the required plugins, WPBakery Page Builder and Advanced Custom Fields, are installed and activated.
 
 ## Video Demonstration
 
 To see the live website in action, you can watch the recorded video demonstration available in the repository. This video showcases the functionality and layout of the landing page as it appears on the local host.
-https://github.com/user-attachments/assets/5065f8c8-399a-426d-8552-99d98feac09b
+[https://github.com/user-attachments/assets/5065f8c8-399a-426d-8552-99d98feac09b]
 
 ## Usage
 
